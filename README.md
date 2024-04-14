@@ -4,3 +4,9 @@ Welcome to the repository for our Unity 2D Platformer Game! This project is an o
 
 ## Features
 - **5 Levels:** Each level presents unique challenges and enemies.
+
+
+### Prerequisites
+
+Unity Hub
+Unity Editor (version 2020.3.3f1 or later)
